@@ -75,7 +75,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/DGLcsGaming" target="_blank">
+<a href="https://github.com/faicalghoul" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/faycalghoul" target="_blank">
@@ -89,7 +89,7 @@
 
 <br/>  
 
-![Faical Ghoul GitHub/GitLab Merged Contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/viewportWidth/900/https://contra-psi.vercel.app/?githubUsername=DGLcsGaming&gitlabUsername=faycalghoul)
+![Faical Ghoul GitHub/GitLab Merged Contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/viewportWidth/900/https://contra-psi.vercel.app/?githubUsername=faicalghoul&gitlabUsername=faycalghoul)
 
 
 

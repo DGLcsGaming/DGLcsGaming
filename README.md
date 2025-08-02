@@ -90,7 +90,9 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DGLcsGaming&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github/Gitlab Stats  
+![Faical Ghoul GitHub/GitLab Merged Contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=DGLcsGaming&gitlabUsername=faycalghoul)
 
 <br/>  
+
+

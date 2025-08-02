@@ -89,7 +89,7 @@
 
 <br/>  
 
-![Faical Ghoul GitHub/GitLab Merged Contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=DGLcsGaming&gitlabUsername=faycalghoul)
+![Faical Ghoul GitHub/GitLab Merged Contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/viewportWidth/900/https://contra-psi.vercel.app/?githubUsername=DGLcsGaming&gitlabUsername=faycalghoul)
 
 
 

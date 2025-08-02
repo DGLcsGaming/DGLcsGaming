@@ -1,7 +1,7 @@
-### <div align="center">I'm Faical Ghoul, a full-stack web developer [MERN] 👨‍💻 [@foxcod](https://foxcod.com/) 🚀</div>  
+### <div align="center">I'm Faical Ghoul, a Senior Full Stack Web Develope [MERN] 👨‍💻 [@Foxcode](https://foxcod.com/) 🚀</div>  
   
 
-- 🔭 I’m currently a full-stack web developer at [@foxcod](https://foxcod.com/)  
+- 🔭 I’m currently a Senior Full Stack Web Developer at [@Foxcode](https://foxcod.com/)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -89,8 +89,6 @@
 
 <br/>  
 
-
-## Github/Gitlab Stats  
 ![Faical Ghoul GitHub/GitLab Merged Contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=DGLcsGaming&gitlabUsername=faycalghoul)
 
 <br/>  

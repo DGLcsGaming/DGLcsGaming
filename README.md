@@ -1,10 +1,10 @@
-### <div align="center">I'm Faical Ghoul, a Senior Full Stack Web Develope [MERN] 👨‍💻 [@Foxcode](https://foxcod.com/) 🚀</div>  
+### <div align="center">I'm Faical Ghoul, a Senior Full Stack Web Develope 👨‍💻 [@Foxcode](https://foxcod.com/) 🚀</div>  
   
 
 - 🔭 I’m currently a Senior Full Stack Web Developer at [@Foxcode](https://foxcod.com/)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to web development and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
